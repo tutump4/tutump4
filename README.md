@@ -1,5 +1,4 @@
-<!-- Perfil do GitHub: tutump4. Este arquivo vai em github.com/tutump4/tutump4/README.md -->
-<!-- Preencha os trechos entre [colchetes] antes de publicar. -->
+
 
 <div align="center">
 
@@ -34,7 +33,6 @@ const arthur = {
 };
 ```
 
-> [💡 Uma frase sua sobre o que te move na tecnologia, por exemplo: "Gosto de transformar problemas em interfaces simples e seguras."]
 
 <br>
 
@@ -60,20 +58,11 @@ const arthur = {
 
 ## `~/projetos`
 
-### 🎓 [Nome do TCC]
-[Em 2 linhas: o que o projeto faz e qual problema resolve.]
-**Stack:** [liste] · **Minha parte:** [sua função na equipe]
-[Ver repositório](https://github.com/tutump4/[repositorio-tcc])
+### 🎓 Trust Manager 
 
-### 🏆 [Projeto do hackathon de 2024]
-[O que foi construído, em quanto tempo, e o resultado ou colocação.]
-**Stack:** [liste]
-[Ver repositório](https://github.com/tutump4/[repositorio-2024])
+**Minha parte:** Front Engine
+[Ver repositório](https://github.com/Uius/TCC-GP6)
 
-### 🏆 [Projeto do hackathon de 2023]
-[O que foi construído, em quanto tempo, e o resultado ou colocação.]
-**Stack:** [liste]
-[Ver repositório](https://github.com/tutump4/[repositorio-2023])
 
 ### 🧠 Simulador de memória cache
 Simula uma cache com os algoritmos de substituição **LRU, FIFO e LFU** e compara a eficiência entre eles.
@@ -84,8 +73,8 @@ Simula uma cache com os algoritmos de substituição **LRU, FIFO e LFU** e compa
 
 ## `~/certificados`
 
-- [Nome do curso Cisco 1] · Cisco
-- [Nome do curso Cisco 2] · Cisco
+- [Hardware e Redes] · Cisco
+- [Introdução a CyberSegurança] · Cisco
 - Inglês C1 Avançado · Influx Palmital
 - Pacote Office Completo · Microsoft Ignite (2026)
 
